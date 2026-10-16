@@ -1,0 +1,37 @@
+/* A compact, complete composition for 1280 × 720 portfolio screenshots. */
+@media (min-width: 761px) {
+  .presentation .site-header{height:64px}
+  .presentation .intro{padding-block:12px}
+  .presentation .intro .eyebrow{margin-bottom:7px}
+  .presentation h1{font-size:36px}
+  .presentation .intro-copy{margin-top:6px}
+  .presentation .form-panel{padding:20px 22px}
+  .presentation .panel-heading{margin-bottom:13px}
+  .presentation .panel-heading p{font-size:10px;margin-top:2px}
+  .presentation legend{margin-bottom:8px}
+  .presentation .step{width:18px;height:18px;font-size:9px}
+  .presentation fieldset+fieldset{margin-top:14px}
+  .presentation .field>label{margin-bottom:4px}
+  .presentation input[type=number],.presentation select{height:36px}
+  .presentation .input-unit>span{top:8px}
+  .presentation .route-arrow{padding-top:28px}
+  .presentation .service-card{padding:9px 10px}
+  .presentation .service-card small{margin-top:2px}
+  .presentation .insurance-row{margin-top:14px;padding-top:12px}
+  .presentation .declared-field input{height:32px}
+  .presentation .declared-field .input-unit>span{top:6px}
+  .presentation .estimate-panel{padding:20px 26px 17px}
+  .presentation .route-visual{margin-block:10px;height:43px}
+  .presentation .flight-path{margin-bottom:4px}
+  .presentation .flight-path svg{height:40px}
+  .presentation .total-line strong{font-size:44px}
+  .presentation .total-caption{margin:3px 0 12px}
+  .presentation .delivery-time{padding:9px 11px}
+  .presentation .breakdown{margin:12px 0}
+  .presentation .breakdown>div{margin-top:7px}
+  .presentation .weight-summary{padding-top:10px}
+  .presentation .estimate-disclaimer{margin-top:10px}
+  .presentation .site-footer{margin-top:8px;padding-block:10px}
+  .presentation .workspace-footnote{margin-top:10px}
+  .presentation .form-panel,.presentation .estimate-panel{animation:none}
+}

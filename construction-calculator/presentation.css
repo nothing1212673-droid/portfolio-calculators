@@ -1,0 +1,37 @@
+/* A compact, complete composition for 1280 × 720 portfolio screenshots. */
+@media (min-width: 761px) {
+  .presentation .site-header{height:64px}
+  .presentation .intro{padding-block:12px}
+  .presentation .intro .eyebrow{margin-bottom:7px}
+  .presentation h1{font-size:36px}
+  .presentation .intro>div>p:last-child{margin-top:6px}
+  .presentation .project-panel{padding:20px 25px}
+  .presentation .panel-heading{margin-bottom:13px}
+  .presentation .project-basics{padding-bottom:14px;margin-bottom:14px}
+  .presentation .label-line{min-height:22px}
+  .presentation .area-input input,.presentation .property-options label>span{height:46px}
+  .presentation .area-input input{font-size:23px}
+  .presentation .area-input>span{top:16px}
+  .presentation legend{margin-bottom:8px}
+  .presentation .scope-card{height:56px}
+  .presentation .material-field,.presentation .extras-field{margin-top:14px}
+  .presentation .extras-options label{padding-block:9px}
+  .presentation .estimate-panel{padding:18px 27px 14px}
+  .presentation .estimate-head{margin-bottom:7px}
+  .presentation .total-line strong{font-size:39px}
+  .presentation .cost-composition{margin-block:10px}
+  .presentation .donut{width:96px;height:96px}
+  .presentation .donut:before{inset:10px}
+  .presentation .donut strong{font-size:19px}
+  .presentation .breakdown>div{margin-bottom:6px}
+  .presentation .total-row{padding-top:10px;margin-top:10px}
+  .presentation .print-button{padding-block:10px;margin-top:13px}
+  .presentation .site-footer{margin-top:8px;padding-block:10px}
+  .presentation .workspace-footnote{margin-top:10px}
+  .presentation .project-panel,.presentation .estimate-panel{animation:none}
+}
+@media print{
+  .presentation .site-header{height:auto}
+  .presentation .cost-composition{display:none}
+  .presentation .project-panel,.presentation .print-button{display:none}
+}
