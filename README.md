@@ -9,6 +9,8 @@ Two standalone, responsive HTML/CSS/JavaScript projects for fictional brands. Al
 
 Open [the collection homepage](https://nothing1212673-droid.github.io/portfolio-calculators/) to explore both.
 
+The portfolio includes a [NEXUS PDF case study](https://nothing1212673-droid.github.io/portfolio-calculators/portfolio/NEXUS-Shipping-Calculator-Portfolio.pdf), a [BUILDORA PDF case study](https://nothing1212673-droid.github.io/portfolio-calculators/portfolio/BUILDORA-Construction-Calculator-Portfolio.pdf), and a [short animated video](https://nothing1212673-droid.github.io/portfolio-calculators/portfolio/Calculators-Portfolio-Animated-Fiverr.mp4).
+
 ## Run locally
 
 Download the repository and open either calculator's `index.html` in a browser. No installation, server or API key is required. Each calculator has its own README with the sample rate model.
